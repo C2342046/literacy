@@ -1,5 +1,1 @@
-# literacy
-
-test
-こんにちは。
-2342046
+I love [wikipedia](URL)！
