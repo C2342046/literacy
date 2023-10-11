@@ -1,2 +1,1 @@
-I love [wikipedia](URL)！
-https://ja.wikipedia.org/wiki/
+I love[wikipedia](https://ja.wikipedia.org)！
